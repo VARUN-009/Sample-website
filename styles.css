@@ -1,0 +1,23 @@
+body {background-color: #EAF6F6;}
+hr {
+    background-color:#EAF6F6 ;
+    border-style:solid;
+    /*border-top: dotted;*/
+    border-width: 3px;
+    border-color: white;
+    height: 1px;
+    width: 99%;
+    }
+    img {height: 240px;}
+head {
+  color: #F7FF93;
+     }
+h1  {
+  color: #3EDBF0;
+}
+h3  {
+  color: #66BFBF;
+}
+.contact{
+  background-color: #EAF6F6;
+}
